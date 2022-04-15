@@ -1,6 +1,6 @@
 name = "mold_jll"
 uuid = "0903f2b2-81ff-5be9-abf7-91be1d67eee8"
-version = "1.1.1+0"
+version = "1.2.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

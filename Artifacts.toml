@@ -1,228 +1,228 @@
 [[mold]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e34785680ef8eeba7943dcdda6f53187d6a1ffdf"
+git-tree-sha1 = "b4b241429de0ab6affab1a86b43231422602ffb9"
 libc = "glibc"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "79bc312b239ed43a67d3c687973bab8ff2c3bccda6482d521f94bd7a3bf778b3"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "2612b362a34d1faaa74fe7e847b64985f773072eeed21af8ce05ea0159545a18"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[mold]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ecb171e41cb4335a6d90710062542e051deac362"
+git-tree-sha1 = "70554ca665475bbfd74325056d20ab9fdb62db48"
 libc = "glibc"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "6d0a3c6d6b42fe85ecadfb941fea3fcbc923dc32c776c5c0ee065e33ae0d4ae6"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "95295fcf4ccfc83f32b6c88005714bf20bb8051c7c94b02e163c7d05da037b40"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[mold]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "90055dfc447eb46c5b6be5f9fbe2d92f9bced5b9"
+git-tree-sha1 = "fb5f04bad0a9c0986f382f6f18b0b95509cfc8e9"
 libc = "musl"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "82dafcfabf990741bef2b218198f1703cbbdb1928e4618545eddb358cc0d2b1a"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "125178e50953f986e3aae8ca167d8e0aade0c588dd53ada5fe6745ab06d9fe12"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.aarch64-linux-musl-cxx03.tar.gz"
 [[mold]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a339bb166aac6f1ae012a3a490571282e49bb99c"
+git-tree-sha1 = "5d88517a8cc04bcac48bc3d24a2db3e1ad0ecd82"
 libc = "musl"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "ae5de515f917673d52fe9647b92bd647cccbb0a16713524ca6c785b0203829cd"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "e7d2536431bedcea69e524fbc17bef309aa403b68ed574ba9cb2eac270d38372"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.aarch64-linux-musl-cxx11.tar.gz"
 [[mold]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f4199eab4441ca87840da55ae6f5a5906cb36591"
+git-tree-sha1 = "117c8f44510c67f95153488fe347a501baba632d"
 libc = "glibc"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "b6381127cb251c8ec2da52be2a2689fd5f32a98ab0746e8bebe1f157eb681bc2"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "6a6c2e7973e5b1153a43a834dad442612e6f87bc96a3545540ef8c2d1df4cf95"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[mold]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9d967b9f5af93f4cf328387247ac65fd0ee17937"
+git-tree-sha1 = "21e2ba9a79c8891c9dfae5da9abab697f9394e34"
 libc = "glibc"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "8b1996fb06761f5061a973faa9a39af6b5871e20ab654ae4335cbd4f8a4552bf"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "147b882f205b17b045dd837e39a9d3212d71a804456aaeaad4596b81720b326b"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[mold]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7a0f78dd49e356b5b94d45a7230883ba3b5544fd"
+git-tree-sha1 = "40b4421078eaa6dafa4308f15af7f6512e8fad2d"
 libc = "musl"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "56439b95c812422bc619cf6f6108bf9dc9841d2d1e3a3abc69d4afa990d2a826"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "3a951210158bbf14ff8fd4fd06a13848775415f073809c2e7e1846b207818700"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[mold]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "474eca9331829733485a1dfdecd6431119ba7ce2"
+git-tree-sha1 = "52c0ec7e4c7109c81af157eac70f2ae92a901a7b"
 libc = "musl"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "4f8be879ee523094da4ef4b9c2c45ec7ba2a8a940e13b031755f05999e3bde78"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "3988dcadf415a54ae42aa8fbdb322fca1ba50528b5fc109e71a819018dc203c9"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[mold]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e47891a687467ea110ddcefda5b4a7fd9fb34ce1"
+git-tree-sha1 = "35e350097ec3bcf530b7135d48606d17eb4f6800"
 libc = "glibc"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "d6e9be4faaecd0e89113126370ea0e436a0a7404e4b0960d4761289d5863bae8"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "8db474b0fa7f5e3df6a2ad154a8b7d2e46eb6b660d299973f4a1532667894e9d"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[mold]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "21ee72a7a1f5b85c8081d9078a6742695644858a"
+git-tree-sha1 = "18c1069a93f964e3b438e33c4c0ce994fc7aefac"
 libc = "glibc"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "deb1c45452254928a389eb3505d98dc2e523f51c0ba9e1021eec92206ffa852a"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "bf5f955b5814689a99410ab602c670a304da529922ef628e3f1899c3b1ea5281"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[mold]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "76bd266c1bd32c9aea26b4c2b1532ac10ff2bfc5"
+git-tree-sha1 = "d267db6d636c2a97f4e0566c8e04d7ba97bd5145"
 libc = "musl"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "320e6f05bdc0e7f695ad15670720892d683053ad741b1aedec6b4ccb4a8cffb9"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "73c74f059aab257798e5cbedff2cb8ba8660583bb510662cb1764173ed211dc4"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[mold]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f7a7d00b3466260afe209fc34a34583eab6df598"
+git-tree-sha1 = "9f7b19f05ffb500b802291acfce35550062b63bd"
 libc = "musl"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "df4a0a9d447f2f20008c849d6500196c016224153561dd63fa13531189317211"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "d9bfead4a7051c5116e8e3231645fdf06e3b11c8a4158c9fb702eaab29e16ff5"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[mold]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "749f95a08f0044f9752d87aed14a2dbbdc834f55"
+git-tree-sha1 = "893040c2c71dd224712e29d6e3383a60ca02949a"
 libc = "glibc"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "554f61fed092ace96fb5a7126216ed70fb9b615670c39d83d7cc30e15638f5d5"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "f6ad9286552cb5f7517ae0a7dc03e0e3d928a7ca95a75a0e0fd9d36fb5e5109d"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.i686-linux-gnu-cxx03.tar.gz"
 [[mold]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cce194ddf6a88c4c570218673f274ee0fb5fb051"
+git-tree-sha1 = "46ba2b7f70b7c6e6e99f819af6afb34ad60179cf"
 libc = "glibc"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "4e05020603f6d81f1491a47887137e5edcae7e7e311767d4e63db2d423c15ced"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "550efb5f8874b5b89a03a5e35159ac060bceaae87903fce53038a3c6fe89cf7b"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.i686-linux-gnu-cxx11.tar.gz"
 [[mold]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "211b3b67afe6fbb06a8e7a44191fe9c543e61523"
+git-tree-sha1 = "80535b245a1ee8a8d16c22f2b29a3913adb3d85a"
 libc = "musl"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "935006c2722a8196e219818277a2e3fe320b6d530bbb0ac08f65627bcce985c5"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "a57cbc3a1c81d70f978f1e390d0fb63b003b822a8c7b63b35511033b73ab4502"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.i686-linux-musl-cxx03.tar.gz"
 [[mold]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2dd2b5049aacde20bb9e4bd7deb834f117a93adf"
+git-tree-sha1 = "ebafd68d4064c0e7043426abbaf83a88c7c342e6"
 libc = "musl"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "85b39df2d847a253fa535ec3d9b7769adf3a014aea885efdfcf19a4cc8f299f3"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "1f142a3ecfeb92042d22897de5b3bc728eccdc70d2e2c9a0a889d1c23e1aa51d"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.i686-linux-musl-cxx11.tar.gz"
 [[mold]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "067b372ddf115225ff060fe52c8ce05f468ac2b2"
+git-tree-sha1 = "30c8e883b499e24da0961ecfadac407ccb389972"
 libc = "glibc"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "cb81413e3868af8f6aa1c1c8cd7b61e26cec0ac1472cb4b1902e8c8500099b66"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "bd39ba4649fd364bd074ec2dcd536fa6b6bf968f27bf143c41500deca46d2796"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[mold]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0a10001635824354fa9305f10ad71667ea3f1a23"
+git-tree-sha1 = "1bc540d0c1936655214da0f1f92ccc9b0d18ef7c"
 libc = "glibc"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "58aa6848b992ba1b4a19b0247411f11a6e4cbecb5c91f0e11677fb7f7b9da8eb"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "210cab6e594015a6466a84f073abaf0934d6c2e41b6977f800a0a71f863f458d"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[mold]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e033c1e3bde6f359053c1b3c68502059954f1b7e"
+git-tree-sha1 = "422ac794f052afb97511c1d6690ec38d5e018f4c"
 libc = "glibc"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "abce9464d184d85cdae61f0adfa5b60387e70126132eec848f9f8620b2ab76df"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "0dbfefdfaef089d3ac1ac43552c334d400ac621edce1012671b6fadc725a60cb"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[mold]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "caaf6c4dae0c52c7887b66dda145ef0df046ec9c"
+git-tree-sha1 = "e26c527e07e99b1e6216e959bce35659871bdad8"
 libc = "glibc"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "a9e0f2e72d38f50255b8f7e17d715f53ff9deaab34d867e6dfda4df29184f9ba"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "66a7a8fd6bd11a11bb91e2fe45c8e3f1246e3845e384731e4c6f0dc0bf9db02a"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[mold]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "be39bf56a96228db09e581b1cc726d3a8f2755a2"
+git-tree-sha1 = "98904232a8cc4841705add22aaeb24a1d3eb10e3"
 libc = "musl"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "a770d852550112b0bcc28853b1993ce82147a3238b12e193df7958bb458ea795"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "b013efe1d0bd84235dea825a891c618ac726b7f4ac216ae4722b92e188a96b12"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.x86_64-linux-musl-cxx03.tar.gz"
 [[mold]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "082eb391bf2aeb424a674937173030ff88678e51"
+git-tree-sha1 = "9c3669d082ba223d027d4a21f8478617b5416962"
 libc = "musl"
 os = "linux"
 
     [[mold.download]]
-    sha256 = "5bcc296fd888b098f7cf2d7b5a840dab742518bd16713642e6dfa830a0f6f6c8"
-    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.1.1+0/mold.v1.1.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "1728a28a59064a206891608baf3b4d888f397a58c5fca2f3dd4ac04f73d5bc85"
+    url = "https://github.com/JuliaBinaryWrappers/mold_jll.jl/releases/download/mold-v1.2.0+0/mold.v1.2.0.x86_64-linux-musl-cxx11.tar.gz"
